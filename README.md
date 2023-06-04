@@ -162,9 +162,13 @@ for (item of buttons) {
 
 ## OUTPUT:
 ![OUTPUT](./out.png)
+![out](https://github.com/VijayShankar10/standard-calculator/assets/121999019/a71bd685-b29a-430f-a3e7-a534ef1131a4)
+
 
 ## HTML Validator:
 ![HTML Validator](./valid.png)
+![valid](https://github.com/VijayShankar10/standard-calculator/assets/121999019/75ac6902-23a9-4061-ae5b-3821794b92ec)
+
 
 ## Result:
 The program for designing a simple calculator using javascript executed successfully.
